@@ -1,5 +1,4 @@
-# SmartBrain - v3
-Final project for ZTM course - Advanced
+# SmartBrain - version 3
 
 1. Clone this repo
 2. Run `npm install`
